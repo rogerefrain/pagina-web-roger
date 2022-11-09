@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+19:40:10	0/0	---M--	302	error ('Moved%20Temporarily')	text/html	date:Wed,%2009%20Nov%202022%2000:40:10%20GMT	https://as.com/	C:/HTRACK/pagina%20roger/as.com/index.html	(from )
+19:40:12	321/321	---M-Z	200	added ('OK')	text/plain	etag:W/%22634fae04-290%22	https://as.com/robots.txt		(from )
