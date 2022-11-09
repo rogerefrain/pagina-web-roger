@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+as.com	TRUE	/	FALSE	1999999999	arc-geo	{"georegion":"172","countrycode":"PE","regioncode":"eu-central-1","timezone":"EST","continent":"SA"}
+.as.com	TRUE	/	FALSE	1999999999	astz	PE
+.as.com	TRUE	/	FALSE	1999999999	hpage	PE
+com	TRUE	/	FALSE	1999999999	AKA_A2	A
+
